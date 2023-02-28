@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1989b9902dd4c7a48823f56e594b5cd2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabTeddyBear: {fileID: 1005400459988736111, guid: 8f039758ba713d444a8ae3a65359241d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
